@@ -2,9 +2,6 @@ package SuperKeyword;
 
 public class supermethod {
 
-	
-	
-
 
 public void display1()
 {
